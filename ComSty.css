@@ -1,0 +1,17 @@
+﻿*{
+    margin: 0; padding: 0; display: block;}
+header{
+    background-color: #FeFCFe;font-family: Segoe UI; color: #FFF; text-align: center;}
+body{
+    background-color: #4d4d6d;}
+.dn{
+    height: 40em; background-color: transparent; border-radius: 6px;}
+.cont1 > div,.cont2{
+    background-color: #4d4d6d; height: 70em;}
+#d2, #1d1{
+    background-color: #4d4def; height: 45em;} #1d1 > div{
+        background-color: #feeda0;}
+a{
+    text-decoration: none; color: #F3F1ef;}
+a:hover,a:focus{
+    color: #EEE;  outline: none;}
